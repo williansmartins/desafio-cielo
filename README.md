@@ -1,6 +1,6 @@
 # Desafio técnico para a Cielo
-** Frontend utilizado AngularJS + HTML + CSS
-** Backend utilizando Laravel PHP + Mysql
+* Frontend utilizado AngularJS + HTML + CSS
+* Backend utilizando Laravel PHP + Mysql
 
 # Instruções
 ## Contexto: Realizar uma Integração e apresentá-la em uma SPA (Single Page Applicatioin).
